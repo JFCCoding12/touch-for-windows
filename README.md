@@ -1,4 +1,4 @@
-# touch
+# touch for windows
 Creates files for windows like the basic functionality of the Unix command touch.  
 
 Eventually I plan on adding all of the capabilities of touch to windows but this it here for now. I made it a exe file using pyinstaller and added it to my python directory so I can use it in any dir and with out needing the .exe at the end of touch.
